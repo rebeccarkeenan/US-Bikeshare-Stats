@@ -47,5 +47,3 @@ The dataset is randomized information from January through June 2017 for New Yor
 # External Resources
 
 To answer research questions, information was gathered from https://pandas.pydata.org and https://stackoverflow.com. 
-
-![Udacity Certification](https://ibb.co/QDXZDJ1)
