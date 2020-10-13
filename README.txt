@@ -47,3 +47,6 @@ The dataset is randomized information from January through June 2017 for New Yor
 # External Resources
 
 To answer research questions, information was gathered from https://pandas.pydata.org and https://stackoverflow.com. 
+
+[Udacity Cert.pdf](https://github.com/rebeccarkeenan/US-Bikeshare-Stats/files/5372621/Udacity.Cert.pdf)
+<img width="1046" alt="Screen Shot 2020-10-13 at 11 43 55 AM" src="https://user-images.githubusercontent.com/59745483/95886717-effddf00-0d4c-11eb-8124-6b2e6d34ec90.png">
